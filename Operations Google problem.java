@@ -1,3 +1,4 @@
+//https://leetcode.com/discuss/interview-question/538568/google-onsite-min-operations-to-reduce-number-to-1
 import java.util.*;
 public class Operations {
     public static void main(String args []) {
