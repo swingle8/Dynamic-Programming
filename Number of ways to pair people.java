@@ -1,5 +1,5 @@
 /*package whatever //do not write package name here */
-
+//https://www.geeksforgeeks.org/number-of-ways-to-pair-people/
 import java.io.*;
 
 class GFG {
